@@ -2,6 +2,7 @@ baseURL = "https://gulsumoran.com/"
 title = "Av. Gülsüm Oran"
 theme = "lodi"
 languageCode = "en-us"
+googleAnalytics = "UA-103076598-4"
 
 [params]
     email = "av.gulsumoran@gmail.com"
