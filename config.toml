@@ -1,0 +1,17 @@
+baseURL = "https://gulsumoran.com/"
+title = "Av. Gülsüm Oran"
+theme = "lodi"
+languageCode = "en-us"
+
+[params]
+    email = "av.gulsumoran@gmail.com"
+    linkedin = "https://www.linkedin.com/in/gülsüm-oran-985634168/"
+[params.hero]
+    enable = true
+    avatar = "portrait.jpg"
+    subtitle = "Avukat Gülsüm Oran"
+    hero_right = ["İstanbul Üniversitesi Hukuk Fakültesi'nden mezun oldum.", "Şu anda KocaErsöz Hukuk Bürosu'nda çalışıyorum."]
+[params.case_studies]
+    enable = false
+[params.process]
+    enable = false
